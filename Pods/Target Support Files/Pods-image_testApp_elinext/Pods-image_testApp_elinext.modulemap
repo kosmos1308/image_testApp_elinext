@@ -1,0 +1,6 @@
+framework module Pods_image_testApp_elinext {
+  umbrella header "Pods-image_testApp_elinext-umbrella.h"
+
+  export *
+  module * { export * }
+}
